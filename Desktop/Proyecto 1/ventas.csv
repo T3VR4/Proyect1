@@ -1,0 +1,6 @@
+venta_id,cliente_id,producto,cantidad,fecha
+101,1,Laptop,1,2023-05-01
+102,2,Mouse,2,2023-05-02
+103,1,Teclado,1,2023-05-03
+104,3,Monitor,1,2023-05-04
+105,4,Impresora,1,2023-05-05
